@@ -1,0 +1,1 @@
+['No', 'Age', 'Job', 'Credit amount', 'Duration']
